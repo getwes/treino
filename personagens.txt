@@ -3,4 +3,5 @@ treino
 @ mais uma vez
 git status = status do repositorio local
 git add . adiciona tudo ou  arquivos
-git commit -m "mensagem do commit"
+git commit -m "mensagem do commit" 
+falta pouco 
