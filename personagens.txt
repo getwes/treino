@@ -1,3 +1,6 @@
 eu n tenho ideia 
 treino
 @ mais uma vez
+git status = status do repositorio local
+git add . adiciona tudo ou  arquivos
+git commit -m "mensagem do commit"
